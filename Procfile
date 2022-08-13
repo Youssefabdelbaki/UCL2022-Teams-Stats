@@ -1,0 +1,1 @@
+web: gunicorn ucl2022:server
